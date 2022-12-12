@@ -1,0 +1,1 @@
+echo "git first chat in gum.sh"
