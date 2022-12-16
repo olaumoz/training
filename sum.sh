@@ -1,2 +1,2 @@
 echo "new line for fresh test"
-test fetch
+echo "test fetch"
