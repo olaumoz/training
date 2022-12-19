@@ -1,3 +1,4 @@
-echo "new line for fresh test"
-echo "test fetch"
+./execute rum.sh
+echo "we are updating sum.sh"
+echo "make spelling mistake"
 ./gum.sh
